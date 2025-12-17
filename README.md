@@ -4,7 +4,7 @@ Documentation of my exploration with the architecture and design for a low-laten
 
 ## Documentation
 
-📄 [View the full architecture document (PDF)](docs\marketDataIngestion.pdf)
+📄 [View the full architecture document (PDF)](docs/marketDataIngestion.pdf)
 
 ## Overview
 
